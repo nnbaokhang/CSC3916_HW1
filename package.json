@@ -1,0 +1,19 @@
+{
+  "name": "csc3916_hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnbaokhang/CSC3916_HW1.git"
+  },
+  "author": "Khang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnbaokhang/CSC3916_HW1/issues"
+  },
+  "homepage": "https://github.com/nnbaokhang/CSC3916_HW1#readme"
+}
